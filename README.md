@@ -1,4 +1,4 @@
-# C-Console-Project-File-I-O
+# CSharp-Console-Project-File-I-O
 
 A console-based C# application developed using .NET 10.0.  
 This project demonstrates file handling (File I/O), exception handling, and menu-driven user interaction in a console environment.
