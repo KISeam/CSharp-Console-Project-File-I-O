@@ -9,7 +9,7 @@ This project demonstrates file handling (File I/O), exception handling, and menu
 
 The application allows users to interact with a text file (`history.txt`) through a menu system. Users can:
 
-- View file content
+- View file content 
 - Add new text data
 - Replace existing file data
 - Append data to file
